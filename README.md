@@ -24,10 +24,10 @@
 
 
 ## 🔨 I'm currently interested in:
-  - Web scraping data and finding cool uses for it
+  - Generating/working with large data sets (web scraping and databases)
+  - Backend Development (I love REST APIs and the HTTP protocol in general)
   - Python and C/C++
   - Web development
-  - REST APIs (and HTTP as a protocol in general)
   - Linux (I'm switching my laptop to Mint!)
 
 ## 📫 Contact me: 
