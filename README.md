@@ -24,8 +24,9 @@
 
 
 ## 🔨 I'm currently interested in:
+  - Unity development -- I'm working with three others to create a Tamagotchi-inspired habit tracker currently :)
   - Generating/working with large data sets (web scraping and databases)
-  - Backend Development (I love REST APIs and the HTTP protocol in general)
+  - Backend development (I love REST APIs and the HTTP protocol in general)
   - Python and C/C++
   - Web development
   - Linux (I'm switching my laptop to Mint!)
