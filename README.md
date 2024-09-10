@@ -4,7 +4,7 @@
 - I am currently an intern at [Performance Services](https://www.performanceservices.com/)
 - Class of '26 Computer Science student at Purdue University, specializing in the Software Engineering and Security tracks
 - Formerly a developer for [Boilerexams](https://www.boilerexams.com) and a TA for CS 182, now TAing for CS 250
-- Outside of my coursework, I enjoy bouldering, learning 한국어 (Korean), weightlifting, competitive programming, and playing board games!
+- Outside of my coursework, I enjoy bouldering, learning 한국어 (Korean), weightlifting, competitive programming, keeping up with the NFL (I'm a casual fan), and playing board games!
 - Pronouns: he/him/his
 
 ## 💻 Tech Stack:
