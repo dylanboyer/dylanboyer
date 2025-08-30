@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Dylan👋</h1>
 
 ## 🙋‍♂️ About Me:
-- I am currently an intern at [Performance Services](https://www.performanceservices.com/)
 - Class of '26 Computer Science student at Purdue University, specializing in the Systems Software track
 - Currently TAing for Systems Programming (CS 252) -- previously TAed for CS 182 & CS 250
 - Former SWE intern at LinkedIn in Mountain View, CA. Former SWE at Performance Services, Inc. in Carmel, IN as well
