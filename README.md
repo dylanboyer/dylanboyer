@@ -2,10 +2,11 @@
 
 ## 🙋‍♂️ About Me:
 - I am currently an intern at [Performance Services](https://www.performanceservices.com/)
-- Class of '26 Computer Science student at Purdue University, specializing in the Software Engineering and Security tracks
-- Studying AWS Cloud Services to become AWS Cloud Practitioner Certified
-- Formerly a developer for [Boilerexams](https://www.boilerexams.com) and a TA for CS 182, now TAing for CS 250
-- Outside of my coursework, I enjoy bouldering, learning 한국어 (Korean), weightlifting, keeping up with the NFL (I'm a casual fan), and playing board games!
+- Class of '26 Computer Science student at Purdue University, specializing in the Systems Software track
+- Currently TAing for Systems Programming (CS 252) -- previously TAed for CS 182 & CS 250
+- Former SWE intern at LinkedIn in Mountain View, CA. Former SWE at Performance Services, Inc. in Carmel, IN as well
+- Formerly a developer for [Boilerexams](https://www.boilerexams.com)
+- Outside of my coursework, I enjoy bouldering, learning 한국어 (Korean), weightlifting, keeping up with the NFL + NBA, rock climbing, and playing board games!
 - Pronouns: he/him/his
 
 ## 💻 Tech Stack:
@@ -25,12 +26,11 @@
 
 
 ## 🔨 I'm currently interested in:
-  - Unity development -- I'm working with three others to create a Tamagotchi-inspired habit tracker currently :)
-  - Generating/working with large data sets (web scraping and databases)
-  - Backend development (I love REST APIs and the HTTP protocol in general)
+  - Backend development
+  - Systems programming (taking compilers currently and it's super cool!)
+  - Data privacy and compliance -- my sole focus at LinkedIn
   - Python and C/C++
-  - Web development
-  - Linux (I'm switching my laptop to Mint!)
+  - Linux/Unix
 
 ## 📫 Contact me: 
 [![Linkedin: Dylan Boyer](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanrboyer)
@@ -40,8 +40,6 @@
 ## 🔎 You can also find me on:
 I rarely use socials but if you wish to find me, go for it!
 
-[![Myanimelist: Dylan Boyer](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white
-)](https://myanimelist.net/profile/dylan5160)
 [![X: Dylan Boyer](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dylan5160)
 [![Instagram: Dylan Boyer](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dylanboyer_/)
 [![Website: Dylan Boyer](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dylanboyer.dev/)
