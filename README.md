@@ -1,32 +1,18 @@
 <h1 align="center">Hi there, I'm Dylan👋</h1>
 
 ## 🙋‍♂️ About Me:
-- Class of '26 Computer Science student at Purdue University, specializing in the Systems Software track
-- Currently TAing for Systems Programming (CS 252) -- previously TAed for CS 182 & CS 250
-- Former SWE intern at LinkedIn in Mountain View, CA. Former SWE at Performance Services, Inc. in Carmel, IN as well
-- Formerly a developer for [Boilerexams](https://www.boilerexams.com)
-- Outside of my coursework, I enjoy bouldering, learning 한국어 (Korean), weightlifting, keeping up with the NFL + NBA, rock climbing, and playing board games!
+- Class of '26 Computer Science student at Purdue University, specializing in systems software development
+- Incoming Systems and Infrastructure Engineer at LinkedIn in Mountain View, CA
+- Currently working for Performance Services, Inc. in Carmel, IN
+- Former Teaching Assistant for CS 182, CS 250 and CS 252
+- Former developer for [Boilerexams](https://www.boilerexams.com)
+- Outside of my coursework, I enjoy studying Korean, weightlifting, bouldering, and playing board games!
 - Pronouns: he/him/his
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 ## 🔨 I'm currently interested in:
   - Backend development
-  - Systems programming (taking compilers currently and it's super cool!)
+  - Distributed systems
+  - Compilers
   - Data privacy and compliance -- my sole focus at LinkedIn
   - Python and C/C++
   - Linux/Unix
